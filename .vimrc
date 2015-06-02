@@ -1,3 +1,4 @@
+set shell=/bin/bash
 set background=dark
 set mouse=a
 set history=500
